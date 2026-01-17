@@ -9,6 +9,6 @@ My_CPU = platform.processor()
 print(f"My Os is:{My_platform}")
 print(f"My CPU is:{My_CPU}")
 
-
+print("This is runing inside a Docker container!")
 
 
